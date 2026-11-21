@@ -1,9 +1,21 @@
 {
-  "name": "Javier Fitness",
+  "name": "Javier Fitness V2",
   "short_name": "Javier Fitness",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f6f8",
-  "theme_color": "#df6265",
-  "icons": []
+  "background_color": "#f3f5f8",
+  "theme_color": "#102746",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
